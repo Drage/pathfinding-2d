@@ -7,6 +7,7 @@ Efficient grid-based pathfinding, including A*, Theta*, and JPS implementations
 - JPS (Jump Point Search): Very efficient algorithm for generating paths across uniform cost grids
 
 A* vs Theta* path computation
+
 ![A* vs Theta*](http://aigamedev.com/static/tutorials/aap-pathcompare2D.png)
 
 Jump Point Search path computation
